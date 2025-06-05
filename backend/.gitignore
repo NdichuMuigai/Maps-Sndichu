@@ -1,0 +1,11 @@
+# IntelliJ Project Files
+../.idea
+
+# Maven Files
+.mvn
+target/
+.mvn-classpath
+pom.xml.bak
+
+# Misc
+.DS_Store
